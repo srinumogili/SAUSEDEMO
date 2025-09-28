@@ -1,0 +1,23 @@
+{
+"txtusername":"#user-name",
+"txtPassword":"#password",
+"loginbtn": "#login-button",
+"Productlable":".product_label",
+"product":"Sauce Labs Backpack",
+"Addtocart":".btn_primar.btn_inventory",
+"shoopingCart":".shopping_cart_link",
+"checkoutbtn":".btn_action.checkout_button",
+"checoutMessage":"Checkout: Your Information",
+"txtfirstname":"#first-name",
+"txtsecondtname":"#last-name",
+"txtZipcode":"#postal-code",
+"continuebtn":".btn_primary.cart_button",
+"checkoutoverview":"Checkout: Overview",
+"finish":"FINISH",
+"ThankyouMessage":"THANK YOU FOR YOUR ORDER"
+
+
+
+
+
+}
